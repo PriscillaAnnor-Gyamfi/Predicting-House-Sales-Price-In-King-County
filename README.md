@@ -32,28 +32,28 @@ House prices increase every year, so there is a need for a system to predict hou
 
 
 
-
-
-
-
-
-
-
-
 <h2>Recommendations</h2>
 
-- <b>Cancellation Management Strategies: Implement measures to mitigate cancellations, particularly for City hotels, such as introducing flexible cancellation policies or requiring deposits for bookings to 
-     ensure commitment from guests.</b>
-- <b>Seasonal Pricing Strategy: Capitalize on peak booking periods in August, July, and May by implementing dynamic pricing strategies to maximize revenue during high-demand seasons.</b>
-- <b>Targeted Marketing Campaigns: Leverage demographic preferences to tailor marketing efforts towards European countries, focusing on promotions and offers that appeal to guests from Portugal, Great Britain, 
-     France, Spain, and Germany.</b>
-- <b>Enhanced Online Presence: Strengthen partnerships with Online Travel Agencies (OTAs) to further penetrate the online booking market segment, optimizing visibility and accessibility for potential guests.</b>
-- <b>Customer Loyalty Programs: Develop initiatives to increase customer retention, such as loyalty programs or personalized offers for repeated guests, to foster long-term relationships and encourage repeat 
-     bookings.</b>
-- <b>Review Pricing Strategy: Evaluate the Average Daily Rate (ADR) and pricing structure to ensure competitiveness within the market while maintaining profitability, considering factors such as demand trends 
+- <b>Analyze Market Trends: Conduct a thorough analysis of market trends and economic factors to understand the reasons behind the significant decline in house 
+     sales prices from 2014 to 2015. This analysis can help identify any systemic issues or market shifts that may have contributed to the decline.</b>
+- <b>Renovation Strategy: Given the higher median price of renovated houses, consider implementing a renovation strategy for properties before listing them for 
+     sale. Assess the cost-effectiveness of renovations and prioritize upgrades that are most likely to increase the property's value.</b>
+- <b>Target High-Value Areas: Focus marketing efforts and investment in areas with high average house sales prices, such as zip codes 98039, 98004, 98040, and 
+     98112. Develop targeted marketing campaigns to attract potential buyers to properties in these areas.</b>
+- <b>Optimize Property Features: Identify the specific features, such as the number of bathrooms, bedrooms, and floors, that contribute to higher sales prices. 
+     Tailor property listings to highlight these features and emphasize their value to potential buyers.</b>
+- <b>Enhance Property Presentation: Invest in professional photography and staging to showcase properties in the best possible light. Highlight unique selling 
+     points, such as waterfront views, excellent condition, and high-grade ratings, to attract buyer interest.</b>
+- <b>Review Pricing Strategy: Evaluate the Average Daily Rate (ADR) and pricing structure to ensure competitiveness within the market while maintaining 
+     profitability, considering factors such as demand trends 
      and guest preferences.</b>
-- <b>Optimization of Room Allocation: Allocate resources and prioritize inventory management strategies to accommodate fluctuations in demand during peak booking periods, ensuring efficient utilization of hotel 
-     facilities and maximizing revenue potential.<b>
+- <b>Pricing Strategy: Develop a strategic pricing strategy based on market research and analysis of comparable properties. Set competitive prices that reflect 
+     the value of the property while remaining attractive to potential buyers.<b>
+- <b>Consider Waterfront Properties: Given the higher average price of houses with waterfront views, explore opportunities to acquire or develop waterfront 
+     properties. Conduct feasibility studies to assess the potential return on investment for waterfront properties.<b>
+- <b>Monitor Market Conditions: Stay informed about market conditions and trends to adapt strategies and pricing accordingly. Regularly review and adjust 
+     marketing tactics, pricing strategies, and property features to remain competitive in the market.<b>
+ 
  
 
 <br />
