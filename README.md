@@ -9,8 +9,11 @@
 
 
 <h2>Problem Statement</h2>
-Understanding and Improving Hotel Booking Processes:
-Despite the significance of hotel bookings in the hospitality industry, challenges persist in optimizing booking procedures to enhance efficiency and guest satisfaction. This project aims to investigate factors influencing hotel bookings, such as hotel type, booking patterns, guest demographics, and cancellation rates, to identify opportunities for streamlining the booking process and improving overall guest experiences. By leveraging data-driven insights, this study seeks to address key issues and implement strategies that enhance booking procedures and maximize hotel revenue.
+How can I predict 80% accuracy in house sales price in King county, USA for the next 12 months considering the period sales price from May 2014 to May 2015? 
+
+
+<h2>Background</h2>
+House prices increase every year, so there is a need for a system to predict house prices in the future. House price prediction can help the developer determine the selling price of a house and can help the customer to arrange the right time to purchase a house. There are three factors that influence the price of a house which include physical conditions, concept and location. This research aims to predict house prices in King county with the OLS Regression model. 
 
 
 
