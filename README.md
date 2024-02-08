@@ -54,23 +54,20 @@ House prices increase every year, so there is a need for a system to predict hou
 - <b>Monitor Market Conditions: Stay informed about market conditions and trends to adapt strategies and pricing accordingly. Regularly review and adjust 
      marketing tactics, pricing strategies, and property features to remain competitive in the market.<b>
  
- 
+
+ <h2>Prediction Based on OLS Regression</h2>
+- <b>Based on the OLS regression results showing that 60% of the variation in house sales price can be explained by all the independent variables, we can predict that these variables collectively have a moderate level of predictive power in determining house sales prices. However, it's important to note that there may be other factors not included in the model that could also influence house prices. Therefore, while the model provides valuable insights, it may not capture the full complexity of the housing market.<b>
 
 <br />
 
 
-<h2>Language Used</h2>
-
-- <b>Python</b>
- 
-
 
 <h2>Environments Used </h2>
 
-- <b>Jupyter Notebook</b> 
+- <b>Tableau Public</b> 
 - <b>Windows 10</b> 
 
-<h2>Graphical Representations of some Key findings:</h2>
+<!--<h2>Graphical Representations of some Key findings:</h2>
 
 
 
@@ -91,7 +88,7 @@ Hotel Types and Cancellations:  <br/>
 <img src="https://i.imgur.com/FkjkBFU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-
+--!>
 
 <!--
  ```diff
