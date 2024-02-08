@@ -19,17 +19,25 @@ House prices increase every year, so there is a need for a system to predict hou
 
 <h2>Key Findings</h2>
 
-- <b>Hotel Type: The City hotel receives the highest patronage, totaling 79,330 bookings, surpassing the Resort hotel. However, City hotels also experienced the highest number of cancellations compared to the 
-     Resort hotel.</b>
-- <b>Peak Booking Periods: August emerges as the peak booking period with 13,877 bookings, followed by July and May. These months coincide with the summer season, a time when vacation travel is prevalent. </b>
-- <b>Demographic Preferences: Approximately 28.6% of all guests originated from Portugal, followed by Great Britain, France, Spain, and Germany. This suggests that the majority of hotel guests hail from European 
-     countries.</b>
-- <b>Market Segments/Booking channels: Online Travel Agencies (OTAs) accounted for 47.3% of total bookings, amounting to 56,477 reservations. </b>
-- <b>Highest ADR (Average Daily Rate): Daniel Walter from Portugal recorded the highest Average Daily Rate of $5,400 at a City hotel, without eligibility for a refund.</b>
-- <b>Cancellation Rates: The absence of deposits for most bookings contributed to a significant number of cancellations. Deposits serve as a commitment indicator for guests to honor their reservations.</b>
-- <b>Customer Retention: Repeated guests comprise only 3.19% of total bookings, indicating that the majority of reservations are made by first-time guests or customers.</b>
- 
- 
+- <b> From 2014 to 2015, there was a significant 52% decrease in the overall total house sales price in King County.</b>
+- <b>Out of the 21,613 houses listed for sale in King County, 14,633 were sold in 2014 and 6,980 were sold in 2015, representing approximately 68% and 32% of the 
+     overall total price of approximately $11.7 million, respectively. </b>
+- <b>Renovated houses commanded a higher price compared to unrenovated ones, with a median price of $600,000 for renovated houses and $448,000 for unrenovated 
+     houses.</b>
+- <b>Geographically, the zip codes 98039, 98004, 98040, and 98112, corresponding to Medina, Bellevue, Mercer Island, and Seattle, respectively, had the highest 
+     overall house sales prices. </b>
+- <b>Houses with 3 bathrooms, 8 bedrooms, and 2.5 floors fetched the highest sales prices.</b>
+- <b>Houses viewed three times and those in excellent condition achieved the highest sales prices. Among graded houses, grade 13, the highest grade, recorded the highest sales prices.</b>
+- <b>The average price of houses with waterfront views was twice as high as those without waterfront views.</b>
+
+
+
+
+
+
+
+
+
 
 
 <h2>Recommendations</h2>
