@@ -64,7 +64,7 @@ House prices increase every year, so there is a need for a system to predict hou
 
 - <b>Tableau</b> 
 - <b>Microsoft Excel</b>
-- 
+
 
 <h2>Environments Used </h2>
 
