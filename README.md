@@ -60,36 +60,19 @@ House prices increase every year, so there is a need for a system to predict hou
 
 <br />
 
+<h2>Tools Used </h2>
 
+- <b>Tableau</b> 
+- <b>Microsoft Excel</b>
+- 
 
 <h2>Environments Used </h2>
 
 - <b>Tableau Public</b> 
 - <b>Windows 10</b> 
 
-<!--<h2>Graphical Representations of some Key findings:</h2>
-
-
-
-<p align="center">
- <br/>
-<img src="https://i.imgur.com/vSLbYHF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-  <br/>
-<img src="https://i.imgur.com/FkjkBFU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Market Segments: <br/>
-<img src="https://i.imgur.com/6mbYe9Z.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Hotel Types and Cancellations:  <br/>
-<img src="https://i.imgur.com/FkjkBFU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
---!>
-
+<b>Graphical Representations in Tableau [here](https://public.tableau.com/app/profile/priscilla.annor.gyamfi/viz/Capstone2_16440231363870/Story1)
+</b>
 <!--
  ```diff
 - text in red
