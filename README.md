@@ -56,7 +56,7 @@ House prices increase every year, so there is a need for a system to predict hou
  
 
  <h2>Prediction Based on OLS Regression</h2>
-- <b>Based on the OLS regression results showing that 60% of the variation in house sales price can be explained by all the independent variables, we can predict that these variables collectively have a moderate level of predictive power in determining house sales prices. However, it's important to note that there may be other factors not included in the model that could also influence house prices. Therefore, while the model provides valuable insights, it may not capture the full complexity of the housing market.<b>
+<b>Based on the OLS regression results showing that 60% of the variation in house sales price can be explained by all the independent variables, we can predict that these variables collectively have a moderate level of predictive power in determining house sales prices. However, it's important to note that there may be other factors not included in the model that could also influence house prices. Therefore, while the model provides valuable insights, it may not capture the full complexity of the housing market.<b>
 
 <br />
 
